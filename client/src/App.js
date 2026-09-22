@@ -10,7 +10,7 @@ import {
 import logo from "./logo.svg";
 import "./App.css";
 
-const API_URL = "https://task-management-system-az2z.onrender.com/api";
+const API_URL = "https://task-management-1.onrender.com/api";
 
 function getUser() {
   try {
